@@ -26,10 +26,10 @@ paginate        = 6
   orgDescription = "Here is a description placeholder for your org"
 
   author = "Billy Galloway"
-  authorAvatar = "img/ghost-icon.png"
+  authorAvatar = "uploads/profile.jpg"
   authorLocation = "Seattle, WA"
   authorWebsite = "https://nullconfig.com"
-  authorDescription = "Describe yourself.."
+  authorDescription = "Devops Engineer"
 
   pageNotFoundTitle = "404 - Page not found"
 
