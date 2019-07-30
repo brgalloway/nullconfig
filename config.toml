@@ -6,7 +6,7 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "nullconfig"
+  title       = "NULLCONFIG"
   subtitle    = ""
 
   cover       = "background.jpg"
