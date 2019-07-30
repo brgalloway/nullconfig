@@ -9,7 +9,7 @@ paginate        = 6
   title       = "nullconfig"
   subtitle    = "tech blog dedicated to Ansible and Python"
 
-  cover       = "img/blog-cover.jpg"
+  cover       = "background.jpg"
   description = "Here is a description of your site."
   metaDescription = "Ansible tutorials and tech blog"
   googleAnalytics = ""
