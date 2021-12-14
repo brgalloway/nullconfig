@@ -1,7 +1,6 @@
-👾 Hello, I'm a Senior Devops Engineer at F5 Networks
+👾 Hello, I'm a Senior Devops Engineer at Autogrid
 
-Things that I'm currently involved in
+Things that I'm currently involved with
 - 🐍 Python
 - 🐧 Linux
 - 🐳 Kubernetes
-
